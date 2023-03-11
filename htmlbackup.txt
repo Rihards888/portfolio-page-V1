@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Raleway:wght@300;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Caveat&family=Raleway:wght@300;500&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>Rihards Priedoliņš</title>
+  </head>
+  <body>
+    <header class="header">
+      <div class="topnav">
+        <a class="active" href="#">About</a>
+        <a href="#">Portfolio</a>
+        <a href="#">Contact Me</a>
+        <p>Rihards Priedoliņš</p>
+      </div>
+    </header>
+
+    <div id="main">
+      <h1>About</h1>
+
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempora expedita
+      accusamus sed nisi similique, cupiditate hic minima maiores praesentium
+      accusantium porro harum libero vel beatae nam repudiandae voluptatum iusto
+      error sit architecto commodi necessitatibus consectetur.
+      <br /><br /><br />Perferendis veritatis reiciendis possimus voluptatem,
+      pariatur ea odio sequi facere provident aliquam nemo velit id voluptates
+      nostrum fugit tempora praesentium alias? Ipsa consequuntur nihil dolores?
+      <br />
+      fugit eligendi repellat, inventore consequuntur modi, facilis pariatur
+      amet vel labore quod cupiditate vero natus accusantium odit iste.<br /><br /><br />
+      Quibusdam est, placeat repellendus ad praesentium eligendi. Debitis
+      similique facere laudantium, distinctio, nihil ullam illo itaque dolores
+      hic amet provident alias optio, deleniti natus ipsa? Exercitationem id
+      pariatur nemo accusamus tempore fugiat optio nesciunt quae dolorum quo
+      laboriosam voluptatem excepturi magnam, at iste quibusdam aperiam in eum
+      numquam. Ut deleniti assumenda iure ipsa repudiandae atque in autem
+      tenetur! Possimus fugit atque sequi amet, labore consequatur provident
+      architecto natus adipisci, laborum voluptates! <br /><br /><br />Vel rem
+      natus reiciendis aliquam totam dolorem, alias ipsa nisi, hic, neque
+      consectetur quam et soluta sed minima voluptatem magni dicta!<br />
+      Esse quas eius a accusamus neque obcaecati perferendis, consequuntur nisi
+      optio iste nulla fuga. Quisquam aliquam magni possimus dolorem, dolores
+      sunt illum tempore quam dolorum optio reiciendis amet aut.<br /><br />
+
+      <img
+        src="pic/christina-wocintechchat-com-6Dv3pe-JnSg-unsplash.jpg"
+        alt=""
+        width="300px"
+        height="50%"
+      />
+
+      <img
+        src="pic/christina-wocintechchat-com-0g-iLtxmMhA-unsplash.jpg"
+        alt=""
+        width="300px"
+        height="50%"
+      />
+
+      <img
+        src="pic/christina-wocintechchat-com-FVgECvTjlBQ-unsplash.jpg"
+        alt="pc"
+        width="300px"
+        height="50%"
+      />
+
+      <h1>Portfolio</h1>
+
+      <table class="portfolioTable" style="width: 100%">
+        <tr>
+          <td>Robot Scripts</td>
+          <td>Airdog software</td>
+        </tr>
+        <tr>
+          <td>
+            <img
+              src="portfolio/alex-knight-2EJCSULRwC8-unsplash.jpg"
+              alt=""
+              width="400px"
+              height="50%"
+            />
+          </td>
+          <td>
+            <img
+              src="portfolio/jason-blackeye-XYrjl3j7smo-unsplash.jpg"
+              alt=""
+              width="400px"
+              height="50%"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td>AI Robot sintax</td>
+          <td>IOS APP</td>
+        </tr>
+        <tr>
+          <td>
+            <img
+              src="portfolio/thisisengineering-raeng-sbVu5zitZt0-unsplash.jpg"
+              alt=""
+              width="400px"
+              height="50%"
+            />
+          </td>
+          <td>
+            <img
+              src="portfolio/sara-kurfess-6lcT2kRPvnI-unsplash.jpg"
+              alt=""
+              width="400px"
+              height="50%"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td>Dropball 4000</td>
+          <td>Game performance HPI80</td>
+        </tr>
+        <tr>
+          <td>
+            <img
+              src="portfolio/ramon-salinero-vEE00Hx5d0Q-unsplash.jpg"
+              alt=""
+              width="400px"
+              height="50%"
+            />
+          </td>
+          <td>
+            <img
+              src="portfolio/uriel-soberanes-MxVkWPiJALs-unsplash.jpg"
+              alt=""
+              width="400px"
+              height="50%"
+            />
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <footer class="footer">
+      <p>Latvija 2023</p>
+    </footer>
+  </body>
+</html>
