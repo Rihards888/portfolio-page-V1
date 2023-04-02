@@ -1,4 +1,4 @@
-Portfolio lapas uzmetums.
+Portfolio.
 
 Neko nekopēju, vienkārši galvā izdomāju vizuālo un izkārtojumu.
 
