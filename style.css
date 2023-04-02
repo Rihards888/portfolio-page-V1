@@ -63,11 +63,10 @@ h1 {
       }
 
 .topnav p {
+   
     font-family: 'Amatic SC', cursive;
-    
     font-size: 40px;
     color: azure;
-    
        text-align:left;
        padding:0px 0px 0px 20px;
        margin:0px 0px 0px 0px;
@@ -131,7 +130,7 @@ h1 {
    
   }
   
-  .desc {
+  .description {
     padding: 15px;
     text-align: center;
   }
@@ -139,7 +138,7 @@ h1 {
   .emailform {
    display: block;
     padding:10px;
-    margin:10px 0;
+    margin:10px;
     font-family: 'Amatic SC', cursive;
     font-size: 26px;
  
@@ -177,15 +176,35 @@ h1 {
     border-radius:5px;
     font-family: 'Amatic SC', cursive;
     font-size: 26px;
+ 
+  }
+
+  button:hover {
+
+    width:200px;
+    padding:10px;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    border-radius:5px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 26px;
     cursor: pointer;
   }
+
 
   .backtot {
     font-family: 'Amatic SC', cursive;
     font-size: 36px;
     margin-left: 400px;
-
+    color: white;
   }
+    .backtot:hover {
+      font-family: 'Amatic SC', cursive;
+      font-size: 36px;
+      margin-left: 400px;
+      color: white;
+      text-shadow: 2px 2px 4px #000000;
+    }
  
 
 
